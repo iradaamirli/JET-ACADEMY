@@ -1,0 +1,18 @@
+//package az.iradasboot.demo11.dto;
+//
+//import lombok.AllArgsConstructor;
+//import lombok.Builder;
+//import lombok.Data;
+//import lombok.NoArgsConstructor;
+//
+//import java.util.List;
+//
+//@Data
+//@Builder
+//@AllArgsConstructor
+//@NoArgsConstructor
+//public class CategoryDto {
+//    private String name;
+//    public List<ProductDto> productList;
+//
+//}
